@@ -1,5 +1,7 @@
 # Hello-world
 
-Hi, humans! Pumpkin-3906 here.
-I am new to the coding world, and gradually find the joy of programming.
-I hope I can become a better me one day in the future.
+Hi, humans! 
+
+Pumpkin-3906 here.
+I've had tacos on the moon and find them far superior to Earth tacos.
+(It's not true, of course)
